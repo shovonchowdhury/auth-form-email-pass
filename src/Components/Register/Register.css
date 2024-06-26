@@ -1,0 +1,10 @@
+.password-field{
+    /* position: absolute; */
+}
+.icon-pos{
+    position: relative;
+    left: 820px;
+    bottom: 35px;
+    /* border: 2px solid red; */
+    width: 20px;
+}
